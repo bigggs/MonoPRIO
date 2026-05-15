@@ -314,12 +314,14 @@ You can test the inference time on your own device:
 If you find our work useful in your research, please consider giving us a star and citing:
 
 ```latex
-@article{davies2026monoprio,
-  title={MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection},
-  author={Davies, Leon and Meng, Qinggang and Saada, Mohamad and Li, Baihua and S{\o}lvsten, Simon},
-  journal={arXiv preprint},
-  year={2026},
-  note={arXiv identifier pending}
+@misc{davies2026monoprioadaptivepriorconditioning,
+      title={MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection}, 
+      author={Leon Davies and Qinggang Meng and Mohamad Saada and Baihua Li and Simon Sølvsten},
+      year={2026},
+      eprint={2605.14781},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.14781}, 
 }
 ```
 
